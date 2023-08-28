@@ -16,6 +16,6 @@ Learn about data distribution, probability, data statistics and types of testing
 
 Learn about predictive models & their stages, data extraction & exploration, univariate & bivariate analysis, model building, and linear regression.
 
-NOTE: PLEASE CHANGE CSV FILE NAME IN IPYNB FILE (OR) CODE
+NOTE: PLEASE CHANGE CSV FILE NAME IN IPYNB FILE (OR) CODE THIS FOR ONLY THIS MODULE 
 
 FINAL PROJECT
