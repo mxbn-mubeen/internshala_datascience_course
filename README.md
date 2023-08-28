@@ -12,4 +12,6 @@ Learn about data distribution, probability, data statistics and types of testing
 4. PREDICTIVE MODELING AND BASICS OF MACHINE LEARNING
 Learn about predictive models & their stages, data extraction & exploration, univariate & bivariate analysis, model building, and linear regression.
 
+NOTE: PLEASE CHANGE CSV FILE NAME IN IPYNB FILE (OR) CODE
+
 FINAL PROJECT
