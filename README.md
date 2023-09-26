@@ -17,3 +17,6 @@ Learn about data distribution, probability, data statistics and types of testing
 Learn about predictive models & their stages, data extraction & exploration, univariate & bivariate analysis, model building, and linear regression.
 
 5.FINAL PROJECT
+
+
+![internshala_og_image](https://github.com/mxbn-mubeen/internshala_datascience_course/assets/133656456/91294954-0826-468b-849d-71c13f071a15)
